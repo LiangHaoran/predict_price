@@ -1,0 +1,11 @@
+{
+    "raw_data_path" : "/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/houseprice_train.csv",
+    "result_save_path" : "/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/predict_price/result/submission.csv",
+    "x_train":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/x_train.csv",
+    "y_train":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/y_train.csv",
+    "x_test":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/x_test.csv",
+    "y_test":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/y_test.csv",
+    "final_test_data":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/final_tes_data.csv",
+    "test_data_path":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/houseprice_data/houseprice_test.csv",
+    "log_path":"/Users/haoran/Documents/BUAA_course/matchine_learnign/final_work/personal_work/predict_price/log/log"
+}
